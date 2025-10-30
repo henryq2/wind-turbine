@@ -231,7 +231,7 @@
     <theme>dark</theme>
     <flow-path>/etc/node-red.json</flow-path>
     <authentication>
-      <editor username="admin" password="admin"></editor>
+      <editor username="admin" password="JoIcJ8U0tm86"></editor>
     </authentication>
     <endpoint host="0.0.0.0" port="1880"></endpoint>
   </node-red>
